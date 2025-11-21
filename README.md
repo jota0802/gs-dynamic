@@ -10,12 +10,14 @@
 ---
 
 ## 👥 Integrantes do Grupo
-
+## **Turma 2ESPG**
 | Nome | RM |
 |------|-----|
 | Estevam Melo | 555124 |
 | João Victor Franco | 556790 |
 | Nathan Craveiro | 555508 |
+
+
 
 ---
 
@@ -66,7 +68,7 @@ Implementar **quatro estratégias diferentes** para resolver o problema:
 
 ```bash
 # Clone o repositório
-git clone [URL_DO_REPOSITORIO]
+git clone https://github.com/jota0802/gs-dynamic.git
 
 # Entre no diretório
 cd gs-dynamic
@@ -168,4 +170,3 @@ Este projeto é parte da Global Solution da FIAP - 2025
 ---
 
 **Data de Entrega:** 21/11/2025  
-**Turmas:** 2ESR | 2ESPG | 2ESA
