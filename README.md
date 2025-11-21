@@ -68,7 +68,7 @@ Implementar **quatro estratégias diferentes** para resolver o problema:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/jota0802/gs-dynamic.git
+git clone https://github.com/Dream-Path-AI/gs-dynamic
 
 # Entre no diretório
 cd gs-dynamic
